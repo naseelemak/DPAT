@@ -1,0 +1,8 @@
+24!!TP034699!!Kuih!!1.0
+25!!TP034526!!(Medium) Tea!!3.0
+30!!TP034636!!(Toasted Bread) Tuna Sandwich + Lettuce + Cheese + Ketchup!!5.0
+32!!TP034526!!(Medium) Coffee + Some Sugar + More Ice!!3.0
+34!!TP034526!!(Small) Coffee + Some Milk!!2.0
+35!!TP034526!!(Toasted Bread) Tuna Sandwich + Lettuce + BBQ Sauce + Mustard!!5.0
+36!!TP034526!!(Medium) Coffee + Some Sugar!!3.0
+37!!TP034526!!(Medium) Tea + Some Milk!!3.0
